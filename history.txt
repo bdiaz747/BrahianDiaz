@@ -1,2 +1,2 @@
-ESte es mi primer archivo en git
+Este es mi primer cambio al archivo history.txt en git
 desde tilix Abril 7 del 2023 
