@@ -1,2 +1,3 @@
 Este es mi primer cambio al archivo history.txt en git
-desde tilix Abril 7 del 2023 
+hoy hableremos de si vida
+desde VSC  Abril 8 del 20238
