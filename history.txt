@@ -1,3 +1,3 @@
 Este es mi primer cambio al archivo history.txt en git
-hoy hableremos de si vida y obra maestra
+mañana nos enfocaremos en su vida laboral
 desde VSC  Abril 8 del 20238
