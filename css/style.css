@@ -12,4 +12,14 @@ body{
     text-align: left ;
     border: 1px solid #000;
     margin: 0  auto;
- }
+}
+
+#post{
+    padding: 1em;
+
+}
+
+#container{
+    text-align: left;
+    font-family: Arial;
+}
